@@ -8,7 +8,7 @@ O-IDTBR
 24-mer P3HT  
 decamer PM6  
 hexamer PM6  
-dimer PM6 (included as both dimers with end effects and infinitely long chains)
+dimer PM6 (included as both dimers with end effects and infinitely long chains)  
 chlorobenzene  
 chloroform  
 
