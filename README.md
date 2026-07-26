@@ -32,4 +32,4 @@ Refer to the following papers for details on force field development:
 *(Decamer PM6 and Y6)* Mahajan, C. L.; Gomez, E. D.; Milner, S. T. Resolving the Atomistic Morphology of Domains and Interfaces in PM6:Y6 with Molecular Dynamics. Macromolecules 2025, 58 (5), 2765–2778. https://doi.org/10.1021/acs.macromol.4c02588.  
 *(Infinitely long PM6)* Chaney, T. P.; Mahajan, C. L.; Ghasemi, M.; Levin, A. J.; White, K. P.; Milner, S. T.; Gomez, E. D.; Toney, M. F. Deciphering the Structure of PM6-Type Conjugated Polymer Aggregates in Solution and Film. Chem. Mater. 2025, 37 (19), 7882–7893. https://doi.org/10.1021/acs.chemmater.5c01540.
   
-  
+The DOI for this force field parameter set is: https://doi.org/10.5281/zenodo.21584268  
