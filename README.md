@@ -1,6 +1,8 @@
-# Force field parameters for virtual site coarse grained OPVs
+# Force field parameters for virtual site coarse-grained OPVs
 ---------------------------
+This repository was last updated by Christine Mahajan on 7/25/2026.
 
+It contains potentials and molecule topology files for virtual site coarse-grained OPV molecules developed by the Milner group.
 All files are formatted for GROMACS version 2020.5
 
 
